@@ -1,4 +1,4 @@
-package p61.observer2;
+package observer2;
 
 public class Contabilidad implements SolicitarGraduacion {
 
